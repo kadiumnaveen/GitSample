@@ -1,4 +1,5 @@
 # GitSample
 FreeMarkerConvertor
 Second change
-git config –global user.name “John Doe” git config –global user.email “johndoe@doebrothers.com”
+git config –global user.name “Naveen Kadium” 
+git config –global user.email “kadiumnaveen341@gmail.com”
